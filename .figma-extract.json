@@ -1,0 +1,456 @@
+{
+  "imageFillNodes": [
+    {
+      "nodeId": "2014:4250",
+      "name": "Texture",
+      "type": "RECTANGLE",
+      "fillKey": "fill_76U85O",
+      "imageRefs": [
+        "bcfa0f2ecf6c15828a024b5c1166de4e07f82d98"
+      ]
+    },
+    {
+      "nodeId": "2014:4427",
+      "name": "Triangle",
+      "type": "RECTANGLE",
+      "fillKey": "fill_88VMQG",
+      "imageRefs": [
+        "acc8dc36279daba4fde419aeced3d868976f48a6"
+      ]
+    },
+    {
+      "nodeId": "2014:4428",
+      "name": "Main Ball",
+      "type": "RECTANGLE",
+      "fillKey": "fill_JEWKGA",
+      "imageRefs": [
+        "1bbb9d878f10a98ea31f627989ec466c7051725f"
+      ]
+    },
+    {
+      "nodeId": "2014:4429",
+      "name": "image 7",
+      "type": "RECTANGLE",
+      "fillKey": "fill_JEWKGA",
+      "imageRefs": [
+        "1bbb9d878f10a98ea31f627989ec466c7051725f"
+      ]
+    },
+    {
+      "nodeId": "2014:4450",
+      "name": "image 16",
+      "type": "RECTANGLE",
+      "fillKey": "fill_KQ3JG5",
+      "imageRefs": [
+        "45086551c88678a9263ba0909896707726f469e2",
+        "acc8dc36279daba4fde419aeced3d868976f48a6"
+      ]
+    },
+    {
+      "nodeId": "2014:5123",
+      "name": "Rectangle 3157",
+      "type": "RECTANGLE",
+      "fillKey": "fill_Z7ZVTV",
+      "imageRefs": [
+        "8d76675c04d0f4a0c6934a8deb23ceb8bfd25cad"
+      ]
+    },
+    {
+      "nodeId": "2014:5195",
+      "name": "Rectangle 3157",
+      "type": "RECTANGLE",
+      "fillKey": "fill_5CTPDD",
+      "imageRefs": [
+        "7fe1c4382ae0f6a3818b13c903d675c814d4e228"
+      ]
+    },
+    {
+      "nodeId": "2014:5267",
+      "name": "Rectangle 3157",
+      "type": "RECTANGLE",
+      "fillKey": "fill_61Q45Z",
+      "imageRefs": [
+        "e3be510f8107b5641a738483d76108d75f733510"
+      ]
+    },
+    {
+      "nodeId": "2014:5339",
+      "name": "Rectangle 3157",
+      "type": "RECTANGLE",
+      "fillKey": "fill_8R3ZU1",
+      "imageRefs": [
+        "bced8d670e8e106d33f608ea2b086eb4e357b268"
+      ]
+    },
+    {
+      "nodeId": "2014:5411",
+      "name": "Rectangle 3157",
+      "type": "RECTANGLE",
+      "fillKey": "fill_O7ZPET",
+      "imageRefs": [
+        "42f2c29a3695a369e6a1ecb74ca1545fa86aa4ba"
+      ]
+    },
+    {
+      "nodeId": "2014:5852",
+      "name": "image 12",
+      "type": "RECTANGLE",
+      "fillKey": "fill_35EYD6",
+      "imageRefs": [
+        "3781e6c24b1c5011615edff6d613270a3528625c",
+        "a86ce36807c7033645a55bb9f72861b40fd00db9"
+      ]
+    },
+    {
+      "nodeId": "2014:6355",
+      "name": "Frame 35036",
+      "type": "FRAME",
+      "fillKey": "fill_4TOYEX",
+      "imageRefs": [
+        "36bdfd0d1f29481d62a7f61a98e23b95c6fb4985",
+        "3e00cf586041db3536047caed780f0cf6d16b339",
+        "433f6dc7ac5c8321be2469a1094c69124d648e92",
+        "ee4a3ae5323983613203a2cda5a7654bffd35b04"
+      ]
+    },
+    {
+      "nodeId": "2014:6356",
+      "name": ">-",
+      "type": "RECTANGLE",
+      "fillKey": "fill_ZN5CJ0",
+      "imageRefs": [
+        "dc88c85e8321ebb533f76fea424fb2ddc3f86d25"
+      ]
+    }
+  ],
+  "svgNodes": [
+    {
+      "nodeId": "2014:4444",
+      "name": "Group 20468"
+    },
+    {
+      "nodeId": "2014:4457",
+      "name": "mdi:magic"
+    },
+    {
+      "nodeId": "2014:4519",
+      "name": "Frame 34991"
+    },
+    {
+      "nodeId": "2014:4523",
+      "name": "Frame 34991"
+    },
+    {
+      "nodeId": "2014:4526",
+      "name": "Frame 34992"
+    },
+    {
+      "nodeId": "2014:4529",
+      "name": "Frame 34991"
+    },
+    {
+      "nodeId": "2014:4532",
+      "name": "Frame 34991"
+    },
+    {
+      "nodeId": "2014:4535",
+      "name": "Frame 34991"
+    },
+    {
+      "nodeId": "2014:4538",
+      "name": "Frame 34993"
+    },
+    {
+      "nodeId": "2014:4586",
+      "name": "Auto Layout Horizontal"
+    },
+    {
+      "nodeId": "2014:4592",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:4702",
+      "name": "Auto Layout Horizontal"
+    },
+    {
+      "nodeId": "2014:4708",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:4752",
+      "name": "Auto Layout Horizontal"
+    },
+    {
+      "nodeId": "2014:4758",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:4768",
+      "name": "Auto Layout Horizontal"
+    },
+    {
+      "nodeId": "2014:4774",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:4789",
+      "name": "Frame 35023"
+    },
+    {
+      "nodeId": "2014:4801",
+      "name": "bi:quote"
+    },
+    {
+      "nodeId": "2014:4816",
+      "name": "Frame 34992"
+    },
+    {
+      "nodeId": "2014:4820",
+      "name": "bi:quote"
+    },
+    {
+      "nodeId": "2014:4847",
+      "name": "Frame 34991"
+    },
+    {
+      "nodeId": "2014:4851",
+      "name": "bi:quote"
+    },
+    {
+      "nodeId": "2014:4866",
+      "name": "Frame 34991"
+    },
+    {
+      "nodeId": "2014:4871",
+      "name": "bi:quote"
+    },
+    {
+      "nodeId": "2014:4886",
+      "name": "logos:airflow"
+    },
+    {
+      "nodeId": "2014:5129",
+      "name": "Frame 20382"
+    },
+    {
+      "nodeId": "2014:5201",
+      "name": "Frame 20382"
+    },
+    {
+      "nodeId": "2014:5273",
+      "name": "Frame 20382"
+    },
+    {
+      "nodeId": "2014:5345",
+      "name": "Frame 20382"
+    },
+    {
+      "nodeId": "2014:5417",
+      "name": "Frame 20382"
+    },
+    {
+      "nodeId": "2014:5843",
+      "name": "69"
+    },
+    {
+      "nodeId": "2014:5862",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5870",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5876",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5883",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5889",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5893",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5903",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5927",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5935",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5941",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5945",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5953",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:5963",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6000",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6006",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6017",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6023",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6038",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6044",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6051",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6055",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6061",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "2014:6256",
+      "name": "Frame 35048"
+    },
+    {
+      "nodeId": "2014:6260",
+      "name": "Frame 20382"
+    },
+    {
+      "nodeId": "2014:6267",
+      "name": "Frame 35048"
+    },
+    {
+      "nodeId": "2014:6271",
+      "name": "Frame 20382"
+    },
+    {
+      "nodeId": "2014:6278",
+      "name": "Frame 35048"
+    },
+    {
+      "nodeId": "2014:6282",
+      "name": "Frame 20382"
+    },
+    {
+      "nodeId": "2014:6352",
+      "name": "Group 20470"
+    },
+    {
+      "nodeId": "2014:6368",
+      "name": "phone"
+    },
+    {
+      "nodeId": "2014:6375",
+      "name": "mail"
+    },
+    {
+      "nodeId": "2014:6386",
+      "name": "Frame 34986"
+    },
+    {
+      "nodeId": "2014:6417",
+      "name": "material-symbols:mark-email-unread-outline-rounded"
+    },
+    {
+      "nodeId": "I2014:6419;10:977",
+      "name": "logo-final 1"
+    },
+    {
+      "nodeId": "I2014:6419;10:1003",
+      "name": "phone"
+    },
+    {
+      "nodeId": "I2014:6419;10:1009",
+      "name": "mail"
+    },
+    {
+      "nodeId": "I2014:6419;10:1036",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1041",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1046",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1051",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1056",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1062",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1067",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1072",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1077",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1085",
+      "name": "Frame"
+    },
+    {
+      "nodeId": "I2014:6419;10:1190",
+      "name": "Auto Layout Horizontal"
+    },
+    {
+      "nodeId": "I2014:6419;10:1202",
+      "name": "Frame 35057"
+    },
+    {
+      "nodeId": "I2014:6420;10:2136",
+      "name": "logo-final 1"
+    },
+    {
+      "nodeId": "I2014:6420;10:2145",
+      "name": "search"
+    }
+  ]
+}

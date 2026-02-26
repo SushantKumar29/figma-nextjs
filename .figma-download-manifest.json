@@ -1,0 +1,502 @@
+{
+  "fileKey": "25zox4sqOOGF0YRsyJsaBW",
+  "assets": [
+    {
+      "nodeId": "2014:4250",
+      "imageRef": "bcfa0f2ecf6c15828a024b5c1166de4e07f82d98",
+      "fileName": "texture.png",
+      "needsCropping": false,
+      "requiresImageDimensions": true
+    },
+    {
+      "nodeId": "2014:4427",
+      "imageRef": "acc8dc36279daba4fde419aeced3d868976f48a6",
+      "fileName": "triangle.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:4428",
+      "imageRef": "1bbb9d878f10a98ea31f627989ec466c7051725f",
+      "fileName": "main-ball.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:4429",
+      "imageRef": "1bbb9d878f10a98ea31f627989ec466c7051725f",
+      "fileName": "image-7.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:4450",
+      "imageRef": "45086551c88678a9263ba0909896707726f469e2",
+      "fileName": "image-16-1.png",
+      "needsCropping": true,
+      "requiresImageDimensions": false,
+      "cropTransform": [
+        [
+          1.0181405544281006,
+          0.0,
+          -0.006802720949053764
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "filenameSuffix": "79c606"
+    },
+    {
+      "nodeId": "2014:4450",
+      "imageRef": "acc8dc36279daba4fde419aeced3d868976f48a6",
+      "fileName": "image-16-2.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:5123",
+      "imageRef": "8d76675c04d0f4a0c6934a8deb23ceb8bfd25cad",
+      "fileName": "rectangle-3157.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:5195",
+      "imageRef": "7fe1c4382ae0f6a3818b13c903d675c814d4e228",
+      "fileName": "rectangle-3157-2.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:5267",
+      "imageRef": "e3be510f8107b5641a738483d76108d75f733510",
+      "fileName": "rectangle-3157-3.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:5339",
+      "imageRef": "bced8d670e8e106d33f608ea2b086eb4e357b268",
+      "fileName": "rectangle-3157-4.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:5411",
+      "imageRef": "42f2c29a3695a369e6a1ecb74ca1545fa86aa4ba",
+      "fileName": "rectangle-3157-5.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:5852",
+      "imageRef": "3781e6c24b1c5011615edff6d613270a3528625c",
+      "fileName": "image-12-1.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:5852",
+      "imageRef": "a86ce36807c7033645a55bb9f72861b40fd00db9",
+      "fileName": "image-12-2.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:6355",
+      "imageRef": "ee4a3ae5323983613203a2cda5a7654bffd35b04",
+      "fileName": "frame-35036-1.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:6355",
+      "imageRef": "36bdfd0d1f29481d62a7f61a98e23b95c6fb4985",
+      "fileName": "frame-35036-2.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:6355",
+      "imageRef": "433f6dc7ac5c8321be2469a1094c69124d648e92",
+      "fileName": "frame-35036-3.png",
+      "needsCropping": true,
+      "requiresImageDimensions": false,
+      "cropTransform": [
+        [
+          1.0,
+          0.0,
+          -1.7763568394002505e-15
+        ],
+        [
+          0.0,
+          0.6780952215194702,
+          0.254369854927063
+        ]
+      ],
+      "filenameSuffix": "'623939'"
+    },
+    {
+      "nodeId": "2014:6355",
+      "imageRef": "3e00cf586041db3536047caed780f0cf6d16b339",
+      "fileName": "frame-35036-4.png",
+      "needsCropping": false,
+      "requiresImageDimensions": false
+    },
+    {
+      "nodeId": "2014:6356",
+      "imageRef": "dc88c85e8321ebb533f76fea424fb2ddc3f86d25",
+      "fileName": "asset.png",
+      "needsCropping": true,
+      "requiresImageDimensions": false,
+      "cropTransform": [
+        [
+          0.808080792427063,
+          0.0,
+          0.09595959633588791
+        ],
+        [
+          0.0,
+          0.7937500476837158,
+          0.11089477688074112
+        ]
+      ],
+      "filenameSuffix": "'247112'"
+    },
+    {
+      "nodeId": "2014:4444",
+      "fileName": "group-20468-2014-4444.svg"
+    },
+    {
+      "nodeId": "2014:4457",
+      "fileName": "mdi-magic-2014-4457.svg"
+    },
+    {
+      "nodeId": "2014:4519",
+      "fileName": "frame-34991-2014-4519.svg"
+    },
+    {
+      "nodeId": "2014:4523",
+      "fileName": "frame-34991-2014-4523.svg"
+    },
+    {
+      "nodeId": "2014:4526",
+      "fileName": "frame-34992-2014-4526.svg"
+    },
+    {
+      "nodeId": "2014:4529",
+      "fileName": "frame-34991-2014-4529.svg"
+    },
+    {
+      "nodeId": "2014:4532",
+      "fileName": "frame-34991-2014-4532.svg"
+    },
+    {
+      "nodeId": "2014:4535",
+      "fileName": "frame-34991-2014-4535.svg"
+    },
+    {
+      "nodeId": "2014:4538",
+      "fileName": "frame-34993-2014-4538.svg"
+    },
+    {
+      "nodeId": "2014:4586",
+      "fileName": "auto-layout-horizontal-2014-4586.svg"
+    },
+    {
+      "nodeId": "2014:4592",
+      "fileName": "frame-2014-4592.svg"
+    },
+    {
+      "nodeId": "2014:4702",
+      "fileName": "auto-layout-horizontal-2014-4702.svg"
+    },
+    {
+      "nodeId": "2014:4708",
+      "fileName": "frame-2014-4708.svg"
+    },
+    {
+      "nodeId": "2014:4752",
+      "fileName": "auto-layout-horizontal-2014-4752.svg"
+    },
+    {
+      "nodeId": "2014:4758",
+      "fileName": "frame-2014-4758.svg"
+    },
+    {
+      "nodeId": "2014:4768",
+      "fileName": "auto-layout-horizontal-2014-4768.svg"
+    },
+    {
+      "nodeId": "2014:4774",
+      "fileName": "frame-2014-4774.svg"
+    },
+    {
+      "nodeId": "2014:4789",
+      "fileName": "frame-35023-2014-4789.svg"
+    },
+    {
+      "nodeId": "2014:4801",
+      "fileName": "bi-quote-2014-4801.svg"
+    },
+    {
+      "nodeId": "2014:4816",
+      "fileName": "frame-34992-2014-4816.svg"
+    },
+    {
+      "nodeId": "2014:4820",
+      "fileName": "bi-quote-2014-4820.svg"
+    },
+    {
+      "nodeId": "2014:4847",
+      "fileName": "frame-34991-2014-4847.svg"
+    },
+    {
+      "nodeId": "2014:4851",
+      "fileName": "bi-quote-2014-4851.svg"
+    },
+    {
+      "nodeId": "2014:4866",
+      "fileName": "frame-34991-2014-4866.svg"
+    },
+    {
+      "nodeId": "2014:4871",
+      "fileName": "bi-quote-2014-4871.svg"
+    },
+    {
+      "nodeId": "2014:4886",
+      "fileName": "logos-airflow-2014-4886.svg"
+    },
+    {
+      "nodeId": "2014:5129",
+      "fileName": "frame-20382-2014-5129.svg"
+    },
+    {
+      "nodeId": "2014:5201",
+      "fileName": "frame-20382-2014-5201.svg"
+    },
+    {
+      "nodeId": "2014:5273",
+      "fileName": "frame-20382-2014-5273.svg"
+    },
+    {
+      "nodeId": "2014:5345",
+      "fileName": "frame-20382-2014-5345.svg"
+    },
+    {
+      "nodeId": "2014:5417",
+      "fileName": "frame-20382-2014-5417.svg"
+    },
+    {
+      "nodeId": "2014:5843",
+      "fileName": "69-2014-5843.svg"
+    },
+    {
+      "nodeId": "2014:5862",
+      "fileName": "frame-2014-5862.svg"
+    },
+    {
+      "nodeId": "2014:5870",
+      "fileName": "frame-2014-5870.svg"
+    },
+    {
+      "nodeId": "2014:5876",
+      "fileName": "frame-2014-5876.svg"
+    },
+    {
+      "nodeId": "2014:5883",
+      "fileName": "frame-2014-5883.svg"
+    },
+    {
+      "nodeId": "2014:5889",
+      "fileName": "frame-2014-5889.svg"
+    },
+    {
+      "nodeId": "2014:5893",
+      "fileName": "frame-2014-5893.svg"
+    },
+    {
+      "nodeId": "2014:5903",
+      "fileName": "frame-2014-5903.svg"
+    },
+    {
+      "nodeId": "2014:5927",
+      "fileName": "frame-2014-5927.svg"
+    },
+    {
+      "nodeId": "2014:5935",
+      "fileName": "frame-2014-5935.svg"
+    },
+    {
+      "nodeId": "2014:5941",
+      "fileName": "frame-2014-5941.svg"
+    },
+    {
+      "nodeId": "2014:5945",
+      "fileName": "frame-2014-5945.svg"
+    },
+    {
+      "nodeId": "2014:5953",
+      "fileName": "frame-2014-5953.svg"
+    },
+    {
+      "nodeId": "2014:5963",
+      "fileName": "frame-2014-5963.svg"
+    },
+    {
+      "nodeId": "2014:6000",
+      "fileName": "frame-2014-6000.svg"
+    },
+    {
+      "nodeId": "2014:6006",
+      "fileName": "frame-2014-6006.svg"
+    },
+    {
+      "nodeId": "2014:6017",
+      "fileName": "frame-2014-6017.svg"
+    },
+    {
+      "nodeId": "2014:6023",
+      "fileName": "frame-2014-6023.svg"
+    },
+    {
+      "nodeId": "2014:6038",
+      "fileName": "frame-2014-6038.svg"
+    },
+    {
+      "nodeId": "2014:6044",
+      "fileName": "frame-2014-6044.svg"
+    },
+    {
+      "nodeId": "2014:6051",
+      "fileName": "frame-2014-6051.svg"
+    },
+    {
+      "nodeId": "2014:6055",
+      "fileName": "frame-2014-6055.svg"
+    },
+    {
+      "nodeId": "2014:6061",
+      "fileName": "frame-2014-6061.svg"
+    },
+    {
+      "nodeId": "2014:6256",
+      "fileName": "frame-35048-2014-6256.svg"
+    },
+    {
+      "nodeId": "2014:6260",
+      "fileName": "frame-20382-2014-6260.svg"
+    },
+    {
+      "nodeId": "2014:6267",
+      "fileName": "frame-35048-2014-6267.svg"
+    },
+    {
+      "nodeId": "2014:6271",
+      "fileName": "frame-20382-2014-6271.svg"
+    },
+    {
+      "nodeId": "2014:6278",
+      "fileName": "frame-35048-2014-6278.svg"
+    },
+    {
+      "nodeId": "2014:6282",
+      "fileName": "frame-20382-2014-6282.svg"
+    },
+    {
+      "nodeId": "2014:6352",
+      "fileName": "group-20470-2014-6352.svg"
+    },
+    {
+      "nodeId": "2014:6368",
+      "fileName": "phone-2014-6368.svg"
+    },
+    {
+      "nodeId": "2014:6375",
+      "fileName": "mail-2014-6375.svg"
+    },
+    {
+      "nodeId": "2014:6386",
+      "fileName": "frame-34986-2014-6386.svg"
+    },
+    {
+      "nodeId": "2014:6417",
+      "fileName": "material-symbols-mark-email-unread-outline-rounded-2014-6417.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:977",
+      "fileName": "logo-final-1-I2014-6419_10-977.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1003",
+      "fileName": "phone-I2014-6419_10-1003.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1009",
+      "fileName": "mail-I2014-6419_10-1009.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1036",
+      "fileName": "frame-I2014-6419_10-1036.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1041",
+      "fileName": "frame-I2014-6419_10-1041.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1046",
+      "fileName": "frame-I2014-6419_10-1046.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1051",
+      "fileName": "frame-I2014-6419_10-1051.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1056",
+      "fileName": "frame-I2014-6419_10-1056.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1062",
+      "fileName": "frame-I2014-6419_10-1062.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1067",
+      "fileName": "frame-I2014-6419_10-1067.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1072",
+      "fileName": "frame-I2014-6419_10-1072.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1077",
+      "fileName": "frame-I2014-6419_10-1077.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1085",
+      "fileName": "frame-I2014-6419_10-1085.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1190",
+      "fileName": "auto-layout-horizontal-I2014-6419_10-1190.svg"
+    },
+    {
+      "nodeId": "I2014:6419;10:1202",
+      "fileName": "frame-35057-I2014-6419_10-1202.svg"
+    },
+    {
+      "nodeId": "I2014:6420;10:2136",
+      "fileName": "logo-final-1-I2014-6420_10-2136.svg"
+    },
+    {
+      "nodeId": "I2014:6420;10:2145",
+      "fileName": "search-I2014-6420_10-2145.svg"
+    }
+  ],
+  "counts": {
+    "png_like": 18,
+    "svg": 82
+  }
+}

@@ -1,0 +1,16 @@
+export { ArrowRightIcon } from "./icons/ArrowRightIcon";
+export { SearchIcon } from "./icons/SearchIcon";
+export { QuoteIcon } from "./icons/QuoteIcon";
+export { ClientLogo } from "./icons/ClientLogo";
+export { ParallaxBackground } from "./icons/ParallaxBackground";
+export { Header } from "./Header";
+export { Hero } from "./Hero";
+export { ClientsStrip } from "./ClientsStrip";
+export { ServiceCard } from "./ServiceCard";
+export { Services } from "./Services";
+export { Testimonials } from "./Testimonials";
+export { CaseStudies } from "./CaseStudies";
+export { Technology } from "./Technology";
+export { Features } from "./Features";
+export { Contact } from "./Contact";
+export { Footer } from "./Footer";
