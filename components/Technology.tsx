@@ -94,12 +94,12 @@ export function Technology() {
 			whileInView={{ opacity: 1, y: 0 }}
 			viewport={{ once: true, amount: 0.15 }}
 			transition={{ duration: 0.8, ease: "easeOut" }}
-			className='w-full px-4 sm:px-8 md:px-12 lg:px-20 py-12 md:py-20'
+			className='w-full px-4 py-12 md:py-20'
 		>
-			<div className='mx-auto w-full max-w-7xl'>
-				<div className='grid grid-cols-1 lg:grid-cols-[480px_1fr] gap-6 items-start'>
-					<div className='rounded-[28px] bg-white/5 backdrop-blur-md p-8 md:p-10 lg:p-11 flex flex-col'>
-						<h2 className='text-[32px] sm:text-[38px] lg:text-[42px] font-black text-white leading-[1.1] uppercase tracking-tight'>
+			<div className='mx-auto w-full max-w-8/10'>
+				<div className='grid grid-cols-1 lg:grid-cols-[480px_1fr] gap-40 items-center justify-between'>
+					<div className='rounded-[90px] bg-white/5 backdrop-blur-md p-8 pt-30 flex flex-col'>
+						<h2 className='text-[36px] sm:text-[44px] font-semibold text-white leading-[1.1] uppercase tracking-tight'>
 							Innovative
 							<br />
 							Technologies
@@ -114,7 +114,7 @@ export function Technology() {
 							precisely to your business&apos;s distinct requirements.
 						</p>
 
-						<div className='mt-8 overflow-hidden rounded-[20px] flex-1 min-h-50'>
+						<div className='mt-4 overflow-hidden rounded-[20px] flex-1 min-h-50'>
 							<Image
 								src={`${ASSET_BASE}/image-12-1-nobg.png`}
 								alt='3D render'
@@ -137,14 +137,14 @@ export function Technology() {
 									delay: i * 0.07,
 									ease: "easeOut",
 								}}
-								className='flex gap-5 sm:gap-8 py-7 first:pt-2'
+								className='flex gap-10 py-7 first:pt-2'
 							>
-								<span className='text-[28px] sm:text-[32px] font-black text-white/20 leading-none tabular-nums shrink-0 w-10 mt-0.5'>
+								<span className='text-[40px] font-semibold text-white/20 leading-none tabular-nums shrink-0 w-15'>
 									{cat.n}
 								</span>
 
 								<div className='flex-1 min-w-0'>
-									<h3 className='text-[17px] sm:text-[19px] font-bold text-white mb-3 leading-snug'>
+									<h3 className='text-[17px] sm:text-[19px] font-semibold text-white mb-3 leading-snug'>
 										{cat.title}
 									</h3>
 									<div className='flex flex-wrap gap-2'>

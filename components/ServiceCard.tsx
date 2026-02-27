@@ -1,4 +1,4 @@
-"use client";
+// "use client";
 
 import Image from "next/image";
 
@@ -50,7 +50,7 @@ export function ServiceCard({
 
 	return (
 		<div
-			className={`relative flex min-h-110 flex-col justify-between overflow-hidden rounded-[22px] ${styles.bg} p-5`}
+			className={`relative flex min-h-140 flex-col justify-between overflow-hidden rounded-[22px] ${styles.bg} p-5`}
 		>
 			<div className='absolute left-5 top-5 rounded-full bg-white/15 px-4 py-2 text-[12px] font-medium text-white backdrop-blur'>
 				Our Services

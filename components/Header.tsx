@@ -23,8 +23,8 @@ export function Header() {
 			<div
 				className={`fixed inset-x-0 top-0 z-50 transition-all duration-300 bg-black`}
 			>
-				<div className='w-full px-4 sm:px-6 lg:px-8 xl:px-20'>
-					<div className='mx-auto max-w-7xl'>
+				<div className='w-full px-4'>
+					<div className='mx-auto max-w-8/10'>
 						<div className='flex h-14 items-center justify-between md:h-16'>
 							<div className='flex items-center gap-2 sm:gap-4'>
 								<img
@@ -45,8 +45,9 @@ export function Header() {
 								<nav className='flex items-center gap-1 rounded-[999px] border border-white/10 bg-black/20 px-2 py-1 text-sm font-medium text-white xl:gap-2 xl:px-3'>
 									{[
 										{ label: "Home", href: "#home" },
-										{ label: "Explore AI", href: "#features" },
-										{ label: "Services", href: "#services" },
+										{ label: "Explore AI", href: "#products" },
+										{ label: "Services", href: "#testimonials" },
+										{ label: "E-commerce", href: "#features" },
 										{ label: "Products", href: "#case-studies" },
 										{ label: "Blogs", href: "#footer" },
 									].map((item) => (
@@ -121,9 +122,9 @@ export function Header() {
 
 								{[
 									{ label: "Home", href: "#home" },
-									{ label: "Explore AI", href: "#features" },
-									{ label: "Services", href: "#services" },
-									{ label: "E-commerce", href: "#services" },
+									{ label: "Explore AI", href: "#products" },
+									{ label: "Services", href: "#testimonials" },
+									{ label: "E-commerce", href: "#features" },
 									{ label: "Products", href: "#case-studies" },
 									{ label: "Blogs", href: "#footer" },
 								].map((item) => (

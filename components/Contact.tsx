@@ -13,9 +13,9 @@ export function Contact() {
 			whileInView={{ opacity: 1, y: 0 }}
 			viewport={{ once: true, amount: 0.15 }}
 			transition={{ duration: 0.8, ease: "easeOut" }}
-			className='w-full px-4 sm:px-8 md:px-14 lg:px-20 py-10 md:py-16'
+			className='w-full px-4 py-12 md:py-20'
 		>
-			<div className='mx-auto w-full max-w-7xl'>
+			<div className='mx-auto w-full max-w-8/10'>
 				<div
 					className='relative rounded-[28px] overflow-hidden'
 					style={{

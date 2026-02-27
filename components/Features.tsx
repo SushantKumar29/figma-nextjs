@@ -32,9 +32,9 @@ export function Features() {
 			whileInView={{ opacity: 1, y: 0 }}
 			viewport={{ once: true, amount: 0.15 }}
 			transition={{ duration: 0.8, ease: "easeOut" }}
-			className='w-full px-4 sm:px-8 md:px-12 lg:px-20 py-12 md:py-20'
+			className='w-full px-4 py-12 md:py-20'
 		>
-			<div className='mx-auto w-full max-w-7xl'>
+			<div className='mx-auto w-full max-w-8/10'>
 				<h2 className='text-[36px] sm:text-[44px] font-black text-white leading-tight tracking-tight uppercase'>
 					Featured Insights
 				</h2>

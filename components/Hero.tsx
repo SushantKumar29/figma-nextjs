@@ -9,9 +9,9 @@ export function Hero() {
 	return (
 		<section id='home' className='relative w-full px-20 pt-43.5 pb-0'>
 			<div className='relative mx-auto w-full'>
-				<div className='absolute left-[407.12px] top-[268.9px] h-[507.2px] opacity-60 blur-[50px]'>
+				<div className='absolute left-[607.12px] top-[50.9px] h-full opacity-60 blur-[50px]'>
 					<Image
-						src={`${ASSET_BASE}/image-16-1-79c606.png`}
+						src={`${ASSET_BASE}/bg-flower.png`}
 						alt=''
 						width={725}
 						height={507}

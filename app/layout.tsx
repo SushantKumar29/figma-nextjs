@@ -5,11 +5,13 @@ import "./globals.css";
 const sora = Sora({
 	variable: "--font-sora",
 	subsets: ["latin"],
+	display: "swap",
 });
 
 const inter = Inter({
 	variable: "--font-inter",
 	subsets: ["latin"],
+	display: "swap",
 });
 
 export const metadata: Metadata = {
@@ -26,7 +28,7 @@ export default function RootLayout({
 		<html lang='en'>
 			<body
 				suppressHydrationWarning
-				className={`${sora.variable} ${inter.variable} antialiased bg-[#151A2C] text-white`}
+				className={`${sora.variable} ${inter.variable} antialiased`}
 			>
 				{children}
 			</body>

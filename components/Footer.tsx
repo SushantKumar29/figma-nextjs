@@ -1,27 +1,27 @@
-"use client";
+// "use client";
 
 const ASSET_BASE = "/figma/parallax-scroll";
 
 const NAV_LEFT = [
-	{ label: "Home", href: "#" },
-	{ label: "About Us", href: "#about" },
-	{ label: "Career", href: "#" },
+	{ label: "Home", href: "#home" },
+	{ label: "About Us", href: "#contact" },
+	{ label: "Career", href: "#contact" },
 	{ label: "Case Study", href: "#case-studies" },
-	{ label: "Join the Team", href: "#", bold: true },
+	{ label: "Join the Team", href: "#contact", bold: true },
 ];
 
 const NAV_RIGHT = [
-	{ label: "AI", href: "#" },
-	{ label: "MVP", href: "#" },
-	{ label: "SaaS", href: "#" },
-	{ label: "E-commerce", href: "#" },
-	{ label: "Work with us", href: "#", blue: true },
+	{ label: "AI", href: "#products" },
+	{ label: "MVP", href: "#products" },
+	{ label: "SaaS", href: "#products" },
+	{ label: "E-commerce", href: "#products" },
+	{ label: "Work with us", href: "#contact", blue: true },
 ];
 
 export function Footer() {
 	return (
-		<footer id='footer' className='w-full bg-black pt-10 pb-10 px-10'>
-			<div className='mx-auto w-full max-w-7xl'>
+		<footer id='footer' className='w-full bg-black px-4 py-12 md:py-20'>
+			<div className='mx-auto w-full max-w-8/10'>
 				<div className='h-px w-full bg-white/10 mb-10' />
 
 				<div className='flex flex-col lg:flex-row items-start justify-between gap-10'>

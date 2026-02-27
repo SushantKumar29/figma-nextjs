@@ -6,14 +6,14 @@ import { ServiceCard } from "@/components/ServiceCard";
 export function Services() {
 	return (
 		<motion.section
-			id='services'
+			id='products'
 			initial={{ opacity: 0, y: 40 }}
 			whileInView={{ opacity: 1, y: 0 }}
 			viewport={{ once: true, amount: 0.2 }}
 			transition={{ duration: 0.9 }}
-			className='relative py-32 px-6'
+			className='relative px-4 py-12 md:py-20'
 		>
-			<div className='mx-auto max-w-7xl'>
+			<div className='mx-auto max-w-8/10'>
 				<div className='max-w-155'>
 					<h2 className='text-[48px] font-semibold leading-[1.05] tracking-[-0.02em] text-white'>
 						PRODUCT ENGINEERING

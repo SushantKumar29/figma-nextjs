@@ -99,12 +99,12 @@ export function CaseStudies() {
 			whileInView={{ opacity: 1, y: 0 }}
 			viewport={{ once: true, amount: 0.2 }}
 			transition={{ duration: 0.8, ease: "easeOut" }}
-			className='w-full px-4 sm:px-6 md:px-10 py-10 md:py-16'
+			className='w-full px-4 py-12 md:py-20'
 		>
-			<div className='mx-auto w-full max-w-7xl'>
-				<div className='grid grid-cols-1 md:grid-cols-3 gap-5 items-start'>
+			<div className='mx-auto w-full max-w-8/10'>
+				<div className='grid grid-cols-1 md:grid-cols-3 gap-8 items-start'>
 					<div className='flex flex-col justify-center py-4'>
-						<h2 className='text-[36px] sm:text-[42px] md:text-[48px] font-black text-white leading-tight tracking-tight'>
+						<h2 className='text-[36px] sm:text-[44px] md:text-[48px] font-semibold text-white leading-tight tracking-tight'>
 							SUCCESS
 							<br />
 							STORIES
@@ -115,11 +115,9 @@ export function CaseStudies() {
 						</p>
 					</div>
 
-					<div className='grid grid-cols-1 sm:grid-cols-2 gap-5 md:contents'>
-						{cards.map((card) => (
-							<CardComponent key={card.title} card={card} large />
-						))}
-					</div>
+					{cards.map((card) => (
+						<CardComponent key={card.title} card={card} large />
+					))}
 				</div>
 			</div>
 		</motion.section>
