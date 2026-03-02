@@ -5,36 +5,28 @@
       "name": "Texture",
       "type": "RECTANGLE",
       "fillKey": "fill_76U85O",
-      "imageRefs": [
-        "bcfa0f2ecf6c15828a024b5c1166de4e07f82d98"
-      ]
+      "imageRefs": ["bcfa0f2ecf6c15828a024b5c1166de4e07f82d98"]
     },
     {
       "nodeId": "2014:4427",
       "name": "Triangle",
       "type": "RECTANGLE",
       "fillKey": "fill_88VMQG",
-      "imageRefs": [
-        "acc8dc36279daba4fde419aeced3d868976f48a6"
-      ]
+      "imageRefs": ["acc8dc36279daba4fde419aeced3d868976f48a6"]
     },
     {
       "nodeId": "2014:4428",
       "name": "Main Ball",
       "type": "RECTANGLE",
       "fillKey": "fill_JEWKGA",
-      "imageRefs": [
-        "1bbb9d878f10a98ea31f627989ec466c7051725f"
-      ]
+      "imageRefs": ["1bbb9d878f10a98ea31f627989ec466c7051725f"]
     },
     {
       "nodeId": "2014:4429",
       "name": "image 7",
       "type": "RECTANGLE",
       "fillKey": "fill_JEWKGA",
-      "imageRefs": [
-        "1bbb9d878f10a98ea31f627989ec466c7051725f"
-      ]
+      "imageRefs": ["1bbb9d878f10a98ea31f627989ec466c7051725f"]
     },
     {
       "nodeId": "2014:4450",
@@ -51,45 +43,35 @@
       "name": "Rectangle 3157",
       "type": "RECTANGLE",
       "fillKey": "fill_Z7ZVTV",
-      "imageRefs": [
-        "8d76675c04d0f4a0c6934a8deb23ceb8bfd25cad"
-      ]
+      "imageRefs": ["8d76675c04d0f4a0c6934a8deb23ceb8bfd25cad"]
     },
     {
       "nodeId": "2014:5195",
       "name": "Rectangle 3157",
       "type": "RECTANGLE",
       "fillKey": "fill_5CTPDD",
-      "imageRefs": [
-        "7fe1c4382ae0f6a3818b13c903d675c814d4e228"
-      ]
+      "imageRefs": ["7fe1c4382ae0f6a3818b13c903d675c814d4e228"]
     },
     {
       "nodeId": "2014:5267",
       "name": "Rectangle 3157",
       "type": "RECTANGLE",
       "fillKey": "fill_61Q45Z",
-      "imageRefs": [
-        "e3be510f8107b5641a738483d76108d75f733510"
-      ]
+      "imageRefs": ["e3be510f8107b5641a738483d76108d75f733510"]
     },
     {
       "nodeId": "2014:5339",
       "name": "Rectangle 3157",
       "type": "RECTANGLE",
       "fillKey": "fill_8R3ZU1",
-      "imageRefs": [
-        "bced8d670e8e106d33f608ea2b086eb4e357b268"
-      ]
+      "imageRefs": ["bced8d670e8e106d33f608ea2b086eb4e357b268"]
     },
     {
       "nodeId": "2014:5411",
       "name": "Rectangle 3157",
       "type": "RECTANGLE",
       "fillKey": "fill_O7ZPET",
-      "imageRefs": [
-        "42f2c29a3695a369e6a1ecb74ca1545fa86aa4ba"
-      ]
+      "imageRefs": ["42f2c29a3695a369e6a1ecb74ca1545fa86aa4ba"]
     },
     {
       "nodeId": "2014:5852",
@@ -118,9 +100,7 @@
       "name": ">-",
       "type": "RECTANGLE",
       "fillKey": "fill_ZN5CJ0",
-      "imageRefs": [
-        "dc88c85e8321ebb533f76fea424fb2ddc3f86d25"
-      ]
+      "imageRefs": ["dc88c85e8321ebb533f76fea424fb2ddc3f86d25"]
     }
   ],
   "svgNodes": [

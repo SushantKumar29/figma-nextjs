@@ -1,8 +1,7 @@
 export { ArrowRightIcon } from "./icons/ArrowRightIcon";
 export { SearchIcon } from "./icons/SearchIcon";
 export { QuoteIcon } from "./icons/QuoteIcon";
-export { ClientLogo } from "./icons/ClientLogo";
-export { ParallaxBackground } from "./icons/ParallaxBackground";
+export { ParallaxBackground } from "./ParallaxBackground";
 export { Header } from "./Header";
 export { Hero } from "./Hero";
 export { ClientsStrip } from "./ClientsStrip";
