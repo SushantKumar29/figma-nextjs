@@ -55,7 +55,7 @@ export function ServiceCard({ title, description, cta, tone }: ServiceCardProps)
         <Image src={styles.image} alt="" width={180} height={180} className="pt-6 pr-6" />
       </div>
 
-      <div className="relative mt-16">
+      <div className="relative mt-24">
         <h3 className="text-[28px] font-semibold text-white">{title}</h3>
 
         <p className="mt-4 text-[15px] leading-[1.65] text-white/85">{description}</p>
